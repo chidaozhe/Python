@@ -10,10 +10,8 @@
 
 ## 常用工具
 
-- 领取任务、输出笔记、卡片在 [Issues](https://github.com/OpenMindClub/OpenMindWorld/issues)
-- 常用资源存放在 [wiki](https://github.com/OpenMindClub/OpenMindWorld/wiki)
-- 即时在线交流、观看直播在「开智学堂 APP」>「部落」
-- 部落知识积累在「开智学堂 APP」>「卡包」
+- Github: 全世界最优秀的 hacker 与最源头的创造者都在这里，它沉淀了大量内隐知识模式。在这里你将认领每周读书任务，输出笔记，主动发起优质讨论，生成自己的知识树。
+- 开智学堂 App：基于卡牌的人工智能学习系统。在这里你可以主动联系族长发起直播，与学友分享你的知识，用作品说话。
 
 ## CHANGELOG
 
